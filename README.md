@@ -1,8 +1,7 @@
 # SNU_DNNM
 > ### Mathematical Foundations of Deep Neural Networks, Fall 2022
 
-### Professor
-Ernest K. Ryu in SNU
+### Professor : Ernest K. Ryu
 
 ### Description
 * [Week 1] Optimization and stochastic gradient descent
