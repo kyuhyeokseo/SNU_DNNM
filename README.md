@@ -19,4 +19,4 @@
 * [Week 14-15] Generative adversarial networks
 
 ### reference
-* http://www.math.snu.ac.kr/~ernestryu/courses/deep_learning.html
+* [http://www.math.snu.ac.kr/~ernestryu/courses/deep_learning.html](https://ernestryu.com/courses/deep_learning.html)
